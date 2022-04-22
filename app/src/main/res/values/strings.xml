@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="err_network">Network is Unavailable</string>
+    <string name="err_no_data">No details available.</string>
+</resources>
